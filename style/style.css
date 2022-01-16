@@ -1,0 +1,14 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #808080;
+}
+.font {
+  color: white;
+}
+.about {
+  background-color: #d3d3d3;
+}
+
+section {
+  padding-top: 6rem;
+}
